@@ -1,6 +1,6 @@
 ---
 title: Very Short Intro
-description: THis is a brief description
+description: Short intros to whats on my mind at any given time.
 date: "2019-05-16 13:37:12"
 ---
 
