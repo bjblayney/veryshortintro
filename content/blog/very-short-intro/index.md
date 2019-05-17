@@ -4,7 +4,7 @@ description: Short intros to whats on my mind at any given time.
 date: "2019-05-16 13:37:12"
 ---
 
-This is my first post on my new fake blog.
+This is my first post on my new fake blog. 🇨🇦
 
 I dont even know what a blog is. I'm posting here to help me solidify some ideas. If you think you can help. Please do so.
 
