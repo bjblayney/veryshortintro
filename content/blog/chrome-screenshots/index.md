@@ -10,4 +10,4 @@ There was a time when I didnt know how to do this. That time has passed.
 * `cmd-shift-p`
 * type in `capture full size screenshot`
 
-[Firefox screenshots though 🔥](https://screenshots.firefox.com/) 
+[Firefox screenshots though](https://screenshots.firefox.com/) 🔥

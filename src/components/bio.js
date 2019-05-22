@@ -41,9 +41,22 @@ function Bio() {
               <strong>{author}</strong> who lives and works in Hamilton,
               building useful things. <br />
               How active is he on&nbsp;
-              <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>,
-              or&nbsp;
-              <a href={`https://github.com/${social.github}`}>Github</a>.
+              <a
+                href={`https://twitter.com/${social.twitter}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Twitter
+              </a>
+              , or&nbsp;
+              <a
+                href={`https://github.com/${social.twitter}`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Github
+              </a>
+              .
             </p>
           </div>
         )
