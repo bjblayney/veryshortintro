@@ -32,6 +32,7 @@ function Bio() {
                 marginBottom: 0,
                 minWidth: 50,
                 borderRadius: `100%`,
+                color: `#105cba`,
               }}
               imgStyle={{
                 borderRadius: `50%`,
@@ -45,6 +46,9 @@ function Bio() {
                 href={`https://twitter.com/${social.twitter}`}
                 target="_blank"
                 rel="noopener noreferrer"
+                style={{
+                  color: `#105cba`,
+                }}
               >
                 Twitter
               </a>
@@ -53,6 +57,9 @@ function Bio() {
                 href={`https://github.com/${social.twitter}`}
                 target="_blank"
                 rel="noopener noreferrer"
+                style={{
+                  color: `#105cba`,
+                }}
               >
                 Github
               </a>
